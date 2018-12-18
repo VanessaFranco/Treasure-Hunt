@@ -1,0 +1,30 @@
+body{
+     text-align: center;
+}
+
+h1{
+    font-family:"Mali";
+    color:red;
+    font-size:35px;
+}
+
+p{
+    font-family:"Mali";
+    color:grey;
+    font-size:22px;
+}
+
+img{
+    width:400px;
+}
+
+button{
+    font-size:15px;
+    width:20%;
+    color:grey;
+    background-color:red;
+    font-family:"Mali";
+}
+.secret{
+    color:white;
+}
